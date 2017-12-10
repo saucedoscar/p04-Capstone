@@ -23,5 +23,5 @@ This section of if statements also make sure the player does not go out of bound
 This section shows my functions return types for void non void and the different type of pass by value/reference.
 
 ##Class
-[Room.h lines 8-16](/.main.cpp#L8)
+[Room.h lines 8-16](/.Room.h#L8)
 Have both private and public members which the user is not supposed to be allowed to change however can access them using the "getter functions". Also have a constructor.
